@@ -1,17 +1,10 @@
-# practica2
+# Practica 1 tipcalc
+ Tip calculator code is stored in lib/src/screens/opcion1_screen.dart
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tipcalc
+# Practica 2 pantalla-profile
+ Profile codes are stored in
+ lib\src\models\profile_model.dart
+ lib\src\database\database_profile.dart
+ lib\src\screens\profile_screen.dart
+ lib\src\screens\dashboard_screen.dart
+xd
